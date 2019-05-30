@@ -6,3 +6,4 @@ Learn about regular [expressions](https://docs.python.org/3/library/re.html). "A
 
 Work with the [Natural Language Toolkit](http://www.nltk.org/). "It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries"
 
+[Request](https://github.com/request/request) is designed to be the simplest way possible to make http calls in Python. It supports HTTPS and follows redirects by default.

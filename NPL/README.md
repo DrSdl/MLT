@@ -17,3 +17,15 @@ Using Wolfram's Mathematics pyhton [interface](https://reference.wolfram.com/lan
 Using Global Vectors for Word Representation [GloVe](https://nlp.stanford.edu/projects/glove/)
 
 Applying t-Distributed Stochastic Neighbor Embedding to visualize high-dim word [representations](https://lvdmaaten.github.io/tsne/)
+
+__Second__, we do some examples:
+
+- Do some basic text [processing](https://github.com/DrSdl/MLT/blob/master/NPL/nlp_text_processing.html)
+- Intro to regex [basics](https://github.com/DrSdl/MLT/blob/master/NPL/nlp_raw_strings.html)
+- Search for [words](https://github.com/DrSdl/MLT/blob/master/NPL/nlp_finding_words.html)
+- How to find [metacharacters](https://github.com/DrSdl/MLT/blob/master/NPL/npl_finding_metacharacters.html)
+- Simple pattern [search](https://github.com/DrSdl/MLT/blob/master/NPL/npl_simple_patterns.ipynb)
+- How to find word [boundaries](https://github.com/DrSdl/MLT/blob/master/NPL/npl_find_word_boundaries.html)
+- Definition of character [sets](https://github.com/DrSdl/MLT/blob/master/NPL/npl_defining_character_sets.html)
+- Using complicated [patterns](https://github.com/DrSdl/MLT/blob/master/NPL/npl_finding_complicated_patterns.html)
+
